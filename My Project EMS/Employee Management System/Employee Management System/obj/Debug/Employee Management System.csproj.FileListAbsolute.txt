@@ -1,0 +1,14 @@
+F:\$%FAMILY%$\$%Pulathisini%$\My Project EMS\Employee Management System\Employee Management System\bin\Debug\Employee Management System.exe.config
+F:\$%FAMILY%$\$%Pulathisini%$\My Project EMS\Employee Management System\Employee Management System\bin\Debug\Employee Management System.exe
+F:\$%FAMILY%$\$%Pulathisini%$\My Project EMS\Employee Management System\Employee Management System\bin\Debug\Employee Management System.pdb
+F:\$%FAMILY%$\$%Pulathisini%$\My Project EMS\Employee Management System\Employee Management System\obj\Debug\Employee Management System.csproj.AssemblyReference.cache
+F:\$%FAMILY%$\$%Pulathisini%$\My Project EMS\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.Login.resources
+F:\$%FAMILY%$\$%Pulathisini%$\My Project EMS\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.Properties.Resources.resources
+F:\$%FAMILY%$\$%Pulathisini%$\My Project EMS\Employee Management System\Employee Management System\obj\Debug\Employee Management System.csproj.GenerateResource.cache
+F:\$%FAMILY%$\$%Pulathisini%$\My Project EMS\Employee Management System\Employee Management System\obj\Debug\Employee Management System.csproj.CoreCompileInputs.cache
+F:\$%FAMILY%$\$%Pulathisini%$\My Project EMS\Employee Management System\Employee Management System\obj\Debug\Employee Management System.exe
+F:\$%FAMILY%$\$%Pulathisini%$\My Project EMS\Employee Management System\Employee Management System\obj\Debug\Employee Management System.pdb
+F:\$%FAMILY%$\$%Pulathisini%$\My Project EMS\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.Employee_Management.resources
+F:\$%FAMILY%$\$%Pulathisini%$\My Project EMS\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.Home.resources
+F:\$%FAMILY%$\$%Pulathisini%$\My Project EMS\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.View.resources
+F:\$%FAMILY%$\$%Pulathisini%$\My Project EMS\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.Salary.resources
